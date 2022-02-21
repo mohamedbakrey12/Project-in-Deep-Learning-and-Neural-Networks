@@ -1,1 +1,2 @@
 # Project-in-Deep-Learning-and-Neural-Networks
+In this notebook, many methods and networks that concern and work on deep learning will be explained mainly, as each time a specific idea is added in a different way so that we are able to learn greatly, benefit and benefit from each other. Here, of course, the famous data (the) is used, which is Which we work on all the time. We hope to learn together by adding your opinion in the comments if you see something that should be added to this netbook and do not forget to vote so that everyone can see it and be able to learn.
